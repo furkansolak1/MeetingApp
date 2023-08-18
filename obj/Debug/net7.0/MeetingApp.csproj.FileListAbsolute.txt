@@ -25,3 +25,5 @@ C:\Users\furka\codes\asp.net core dersleri\MeetingApp\obj\Debug\net7.0\MeetingAp
 C:\Users\furka\codes\asp.net core dersleri\MeetingApp\obj\Debug\net7.0\ref\MeetingApp.dll
 C:\Users\furka\codes\asp.net core dersleri\MeetingApp\obj\Debug\net7.0\MeetingApp.RazorAssemblyInfo.cache
 C:\Users\furka\codes\asp.net core dersleri\MeetingApp\obj\Debug\net7.0\MeetingApp.RazorAssemblyInfo.cs
+C:\Users\furka\codes\asp.net core dersleri\MeetingApp\bin\Debug\net7.0\libman.json
+C:\Users\furka\codes\asp.net core dersleri\MeetingApp\bin\Debug\net7.0\MeetingApp.staticwebassets.runtime.json
